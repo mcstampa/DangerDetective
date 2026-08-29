@@ -1,5 +1,5 @@
 # Danger Detection through Audio Captioning and Classification Fusion
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22165447.svg)](https://doi.org/10.5281/zenodo.22165447)
 This repository provides the dataset manifests and supporting information for the paper:
 
 > Stampa, M.-C.; Dimoulas, C.; Stamatiadou, M.-E. *Danger Detection through Audio Captioning and Classification Fusion.* Electronics, 2026. [DOI to be added upon publication]
