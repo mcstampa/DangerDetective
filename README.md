@@ -65,6 +65,18 @@ If you use these manifests or build on this work, please cite:
   note    = {DOI to be added upon publication}
 }
 ```
+To cite the dataset manifests specifically:
+
+```bibtex
+@dataset{stampa_dangerdetective_2026,
+  author    = {Stampa, Maria-Christina and Dimoulas, Charalampos and Stamatiadou, Maria-Eirini},
+  title      = {DangerDetective: Dataset Manifests for Danger Detection through Audio Captioning and Classification Fusion},
+  year       = {2026},
+  publisher = {Zenodo},
+  doi        = {10.5281/zenodo.22165447},
+  url        = {https://doi.org/10.5281/zenodo.22165447}
+}
+```
 
 ## License
 
