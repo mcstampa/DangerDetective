@@ -1,0 +1,13 @@
+# CNN, SBERT and DistilBERT environment, Google Colab (NVIDIA T4 GPU)
+# Python 3.12
+tensorflow==2.20.0
+librosa
+numpy
+pandas
+scikit-learn
+soundfile
+torch
+transformers
+sentence-transformers
+# Only TensorFlow was recorded at training time; the other packages used the
+# Colab default versions available at the time and are therefore left unpinned.

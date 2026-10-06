@@ -1,0 +1,6 @@
+# Caption generation environment (CoNeTTE), run locally on CPU
+# Python 3.10
+torch==1.13.1
+conette==0.4.0
+transformers==4.30.2
+spacy==3.7.2
