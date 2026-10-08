@@ -4,7 +4,7 @@ Code and data manifests for the article **"Danger Detection through Audio Captio
 
 The system combines a raw-waveform CNN for binary danger classification with a semantic branch (CoNeTTE audio captioning, a lexicon and SBERT scoring stage, and a DistilBERT classifier), linked through an uncertainty-based fusion rule (custom_uncertain, activation zone 0.17–0.60).
 
-Archived version: https://doi.org/10.5281/zenodo.22165447
+Archived version: https://zenodo.org/records/23244035
 
 ## Repository structure
 
