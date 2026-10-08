@@ -1,0 +1,9 @@
+# Environment for step 3 (CNN + DistilBERT). Python 3.10.
+# Install torch (CPU) first, as shown in the README, then: pip install -r requirements_latency.txt
+tensorflow==2.20.0
+transformers
+librosa
+soundfile
+psutil
+pandas
+numpy

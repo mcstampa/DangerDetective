@@ -1,0 +1,9 @@
+# Environment for step 2 (CoNeTTE). Python 3.10.
+# Install torch + torchaudio (CPU) first, as shown in the README, then:
+#   pip install -r requirements_conette_latency.txt
+conette==0.4.0
+transformers==4.30.2
+spacy==3.7.2
+numpy<2
+pandas
+psutil
