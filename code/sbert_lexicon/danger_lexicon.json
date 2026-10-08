@@ -1,0 +1,164 @@
+{
+  "event_classes": {
+    "dog": {
+      "score": 1,
+      "keywords": [
+        "dog",
+        "bark",
+        "barking",
+        "dog bark",
+        "dog barking",
+        "barks"
+      ]
+    },
+    "car_horn": {
+      "score": 2,
+      "keywords": [
+        "car horn",
+        "horn",
+        "honking",
+        "honk"
+      ]
+    },
+    "siren": {
+      "score": 3,
+      "keywords": [
+        "siren",
+        "sirens",
+        "blaring",
+        "warning",
+        "police siren"
+      ]
+    },
+    "coughing": {
+      "score": 2,
+      "keywords": [
+        "cough",
+        "coughing",
+        "coughs"
+      ]
+    },
+    "sneezing": {
+      "score": 1,
+      "keywords": [
+        "sneeze",
+        "sneezing",
+        "sneezes"
+      ]
+    },
+    "crying_baby": {
+      "score": 3,
+      "keywords": [
+        "crying baby",
+        "baby crying",
+        "infant crying",
+        "baby cries",
+        "crying",
+        "cries"
+      ]
+    },
+    "screaming": {
+      "score": 3,
+      "keywords": [
+        "scream",
+        "screaming",
+        "screams",
+        "shriek",
+        "shouting",
+        "yelling",
+        "yell"
+      ]
+    },
+    "glass_breaking": {
+      "score": 4,
+      "keywords": [
+        "glass breaking",
+        "breaking glass",
+        "glass shattering",
+        "shattering glass",
+        "glass",
+        "broken glass",
+        "shatter",
+        "shatters",
+        "shattering",
+        "smash",
+        "crash",
+        "breaks"
+      ]
+    },
+    "gun_shot": {
+      "score": 4,
+      "keywords": [
+        "gunshot",
+        "gun shot",
+        "shot",
+        "bang",
+        "firearm",
+        "gun",
+        "shot"
+      ]
+    },
+    "chainsaw": {
+      "score": 3,
+      "keywords": [
+        "chainsaw",
+        "sawing",
+        "power saw"
+      ]
+    },
+    "dog_bark": {
+      "score": 1,
+      "keywords": [
+        "dog",
+        "bark",
+        "barking",
+        "dog bark",
+        "dog barking",
+        "barks"
+      ]
+    }
+  },
+  "intensity_temporal": {
+    "loud": 1,
+    "loudly": 1,
+    "continuous": 1,
+    "continous": 1,
+    "repeated": 1,
+    "repeatedly": 1,
+    "repeteadly": 1,
+    "rapidly": 1,
+    "again": 1,
+    "consistently": 1,
+    "on and on": 1,
+    "twice": 1,
+    "three times": 1,
+    "five times": 1,
+    "times": 1,
+    "steady pace": 0,
+    "passing by": 0,
+    "one time": 0,
+    "once": 0
+  },
+  "context_distance": {
+    "near": 2,
+    "foreground": 2,
+    "close": 2,
+    "inside": 1,
+    "small room": 1,
+    "far": -1,
+    "background": -1,
+    "distance": -1,
+    "outside": -1,
+    "in the distance": -1
+  },
+  "media_exclusion": {
+    "tv": -2,
+    "radio": -2,
+    "recording": -2,
+    "television": -2,
+    "movie": -2,
+    "speaker": -2,
+    "video": -2,
+    "recorded": -2
+  }
+}
