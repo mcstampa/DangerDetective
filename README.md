@@ -50,11 +50,8 @@ The audio itself is not redistributed. All clips can be obtained from the origin
 | `caption_generation_conette.py` | Caption generation with CoNeTTE (checkpoint `Labbeti/conette`, local CPU) | 3.3.1 |
 | `sbert_danger_scoring.py`, `sbert_danger_scoring_runs.ipynb`, `sbert_lexicon/` | Lexicon and SBERT danger scoring of the captions (low threshold profile used for DistilBERT labels) | 3.3.2, 4.2 |
 | `distilbert_training.ipynb` | DistilBERT fine-tuning, six configurations (selected: alignment-stratified split, weighted CE) | 3.3.3, 4.3 |
-| `distilbert_external_evaluation.ipynb` | DistilBERT on the XD-Violence captions | 4.5 |
-| `fusion_weighted_ce.ipynb`, `fusion_focal_loss.ipynb` | Comparison of the twelve fusion rules across model pairs (exploratory zones) | 3.4 |
 | `derive_fusion_thresholds.py` | Activation zone from the CNN's internal test subset | 3.4 |
 | `final_fusion_evaluation.py` | Final results on UrbanSound8K: Tables 9, 10 and 12, bootstrap CIs | 4.3, 4.4 |
-| `yamnet_baseline.py` | Pretrained YAMNet baseline under the same protocol | 4.4 |
 | `latency/` | Latency and memory measurements on a laptop CPU | 5 |
 
 ## Reproducing the reported results
