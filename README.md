@@ -4,7 +4,7 @@ Code and data manifests for the article **"Danger Detection through Audio Captio
 
 The system combines a raw-waveform CNN for binary danger classification with a semantic branch (CoNeTTE audio captioning, a lexicon and SBERT scoring stage, and a DistilBERT classifier), linked through an uncertainty-based fusion rule (custom_uncertain, activation zone 0.17–0.60).
 
-Archived version: https://zenodo.org/records/23244035
+Archived version: https://zenodo.org/records/23244035.
 
 ## Repository structure
 
@@ -16,7 +16,6 @@ data/
   excluded/                     UrbanSound8K clips excluded from evaluation (ESC-50 overlap, too short for captioning)
   external/                     DESED (610 clips) and XD-Violence (1383 segments) manifests, with captions
   predictions/                  Final-system predictions used to compute the reported results
-  perceptual_study/             Listener study responses (27 clips, 5 listeners)
 code/                           Notebooks and scripts (see below)
 environment/                    Package requirements
 ```
@@ -76,4 +75,4 @@ Notebooks were written for Google Colab with the datasets on Google Drive; edit 
 
 ## Citation
 
-If you use this repository, please cite the article and the archived version: [https://doi.org/10.5281/zenodo.22165447](https://zenodo.org/records/23244035)
+If you use this repository, please cite the article and the archived version: https://zenodo.org/records/23244035.
