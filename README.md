@@ -76,4 +76,4 @@ Notebooks were written for Google Colab with the datasets on Google Drive; edit 
 
 ## Citation
 
-If you use this repository, please cite the article and the archived version: https://doi.org/10.5281/zenodo.22165447
+If you use this repository, please cite the article and the archived version: [https://doi.org/10.5281/zenodo.22165447](https://zenodo.org/records/23244035)
